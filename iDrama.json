@@ -35,6 +35,13 @@
     "allowOffline": true
   },
   {
+    "id": "4b248e3d579f2762",
+    "username": "6289635550018",
+    "password": "idrama",
+    "expiresAt": "2025-06-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
